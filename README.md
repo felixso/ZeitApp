@@ -44,7 +44,7 @@ Beispiel für die Auswertung in einem individuell auszuwertenden Zeitraum:
 
 
 ### Download
-Download der App als apk-Datei (in dieser Version können maximal 150 Buchungen gespeichert bzw. ausgewertet werden) ist möglich. Einfach die oben aufgelistete apk-Datei herunterladen.
+Download der App als apk-Datei (in dieser Version können maximal 150 Buchungen gespeichert bzw. ausgewertet werden) ist möglich. Einfach die oben aufgelistete apk-Datei [herunterladen.](https://github.com/felixso/ZeitApp/blob/main/zeitApp.apk).
 
 ### Verwendung von apk-Dateien
-Näheres zur Verwendung von apk-Dateien ist hier zu finden:
+Näheres zur Verwendung von apk-Dateien ist [hier](https://www.computerbild.de/artikel/cb-Tipps-Handy-Android-APK-Dateien-installieren-31519741.html) zu finden:
